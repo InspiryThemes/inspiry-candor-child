@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Candor\n"
-"POT-Creation-Date: 2016-05-16 12:53+0500\n"
-"PO-Revision-Date: 2016-05-16 12:54+0500\n"
+"POT-Creation-Date: 2016-06-13 15:27+0500\n"
+"PO-Revision-Date: 2016-06-13 15:29+0500\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: en_US\n"
@@ -57,10 +57,6 @@ msgstr ""
 
 #: comments.php:34
 msgid "Comments are closed."
-msgstr ""
-
-#: footer.php:31
-msgid "https://wordpress.org/"
 msgstr ""
 
 #: footer.php:32
@@ -153,11 +149,6 @@ msgstr ""
 
 #: functions.php:609
 msgid "(Edit)"
-msgstr ""
-
-#: functions.php:639
-#, php-format
-msgid "%1$s"
 msgstr ""
 
 #: functions.php:663 inc/customizer/header.php:84
@@ -487,11 +478,6 @@ msgstr ""
 
 #: partials/search-form-overlay.php:5
 msgid "Type your Keyword"
-msgstr ""
-
-#: search.php:14
-#, php-format
-msgid "%s"
 msgstr ""
 
 #: search.php:15
