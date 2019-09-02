@@ -2,7 +2,7 @@
 /**
  * The current version of the theme.
  */
-define( 'INSPIRY_CHILD_THEME_VERSION', '1.0.0' );
+define( 'INSPIRY_CHILD_THEME_VERSION', '1.0.1' );
 
 if ( !function_exists( 'inspiry_load_translation_from_child' ) ) {
     /**
